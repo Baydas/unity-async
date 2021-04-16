@@ -1,0 +1,15 @@
+{
+    "name": "com.twistedtamarin.unity.async",
+    "displayName": "Async Extensions",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "Async Await Extensions for Unity",
+    "keywords": [
+        "TwistedTamarin",
+        "AsyncAwait"
+    ],
+    "author": {
+        "name": "TwistedTamarin",
+        "url": "https://twistedtamarin.com"
+    }
+}
